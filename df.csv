@@ -1,375 +1,369 @@
-,Business Name,City,State,Category,Review Count,Rating,Price,Lat,Lng
-0,Ozan Vineyard & Winery,Calera,AL,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'wineries', 'title': 'Wineries'}]",33,4.0,$$,33.102898,-86.71651
-1,Cat-n-Bird Winery,Chelsea,AL,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",20,5.0,$$,33.35086,-86.65443
-2,Corbin Farms Winery,Calera,AL,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",44,4.5,$$,33.175772,-86.775198
-3,Morgan Creek Vineyards,Harpersville,AL,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",19,4.0,$$,33.32664,-86.45676
-4,Hidden Meadow Vineyard,Jemison,AL,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",2,3.0,$,32.95987,-86.7478
-5,Lewis Lakes Vineyards,Columbiana,AL,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,$$,33.2019712461649,-86.6135306082994
-6,Black Warrior Brewing Company,Tuscaloosa,AL,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",49,4.5,$,33.2106954,-87.5663436
-7,Wills Creek Vineyards,Attalla,AL,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'wedding_planning', 'title': 'Wedding Planning'}]",8,4.5,$,34.1483687061207,-85.9967213597446
-8,Alaska Denali Winery,Anchorage,AK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",14,5.0,$$,61.1129445673147,-149.861654806162
-9,UnWINEd,Anchorage,AK,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",10,5.0,$$,61.1885154,-149.8691321
-10,Carlson Creek Vineyard,Scottsdale,AZ,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",52,4.5,$$,33.49577,-111.92934
-11,LDV Winery,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",82,4.5,$$,33.49946,-111.92786
-12,Sip and Savor Tours,Scottsdale,AZ,"[{'alias': 'foodtours', 'title': 'Food Tours'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",6,5.0, ,,
-13,Blasian Limousine and Transportation,Phoenix,AZ,"[{'alias': 'limos', 'title': 'Limos'}, {'alias': 'bustours', 'title': 'Bus Tours'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",10,5.0, ,,
-14,Vinum 55,Phoenix,AZ,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",3,5.0,$$$,33.5254,-112.04698
-15,Desert Rock Winery,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",28,4.5,$,33.62044,-111.92241
-16,Merkin Vineyards - Scottsdale,Scottsdale,AZ,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",49,4.5,$$,33.4991271,-111.9275254
-17,Winery 101,Peoria,AZ,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",65,4.5,$$,33.5652551548974,-112.259073952473
-18,Aridus Scottsdale Tasting Room,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",82,4.5,$$,33.4928431,-111.9267253
-19,Su Vino Winery,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",298,4.0,$$,33.4933258946298,-111.923836906745
-20,An Enchanting Evening,Roland,AR,"[{'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",6,5.0,$$,34.92407,-92.5631499
-21,The Winery,Hot Springs National Park,AR,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,4.0,$$,34.49862,-93.05593
-22,Bath House Row Winery,Hot Springs,AR,"[{'alias': 'wineries', 'title': 'Wineries'}]",24,4.0,$$,34.51706,-93.0542
-23,Spa City Tropical Winery & Gifts,Hot Springs,AR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",8,4.0,$$,34.5158920288086,-93.0538558959961
-24,Bo Brook Farms,Roland,AR,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'farms', 'title': 'Farms'}, {'alias': 'wineries', 'title': 'Wineries'}]",8,3.0, ,,
-25,Westbrook Wine Farm,O'Neals,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",30,4.5,$$,37.164408,-119.648028
-26,Idle Hour Winery & Kitchen,Oakhurst,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",27,4.5,$$,37.346779,-119.639931
-27,Butterfly Creek Winery & Vineyards,Mariposa,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",11,4.0,$,37.5016021728516,-119.86483001709
-28,Fäsi Estate Winery,Friant,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",43,4.5,$$,37.0410139,-119.777653
-29,Marechal Vineyards,Sanger,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",27,4.5, ,,
-30,Rhodes Vineyard,Mariposa,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",2,5.0, ,,
-31,Cedar View Winery,Sanger,CA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",29,4.5,$$,36.7137,-119.44604
-32,Manzanita Cafe & Wine Room,Mariposa,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-33,Valley Oak Winery,Sanger,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,5.0, ,,
-34,Casto Oaks Fine Wine and Art,Mariposa,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",10,4.5,$$,37.4844764918089,-119.964952468872
-35,Balistreri Vineyards,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",202,4.5,$$,39.81598,-104.96478
-36,The Infinite Monkey Theorem,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}]",220,4.5,$$,39.7644113,-104.9775979
-37,Attimo Wine,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}]",17,5.0, ,,
-38,Bigsby's Folly,Denver,CO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",143,4.5,$$,39.76995,-104.97636
-39,Blanchard Family Wines,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'paintandsip', 'title': 'Paint & Sip'}]",42,4.5,$$,39.7533251,-104.9963574
-40,Deep Roots Winery and Bistro,Denver,CO,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",123,4.5,$$,39.75039,-105.0006
-41,Carboy Winery - Denver,Denver,CO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'giftshops', 'title': 'Gift Shops'}]",29,4.5,$$,39.72714,-104.98222
-42,Mile High Wine Tours,Denver,CO,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",9,4.0, ,,
-43,Kingman Estates Winery,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",22,4.5,$$,39.8123755,-104.9764913
-44,Leopold Brothers,Denver,CO,"[{'alias': 'distilleries', 'title': 'Distilleries'}]",128,5.0,$$,39.79273,-104.86244
-45,Crystal Ridge Winery,South Glastonbury,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",32,4.0, ,,
-46,Joseph Preli Farm and Vineyard,South Glastonbury,CT,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'pickyourown', 'title': 'Pick Your Own Farms'}, {'alias': 'wineries', 'title': 'Wineries'}]",21,4.5,$$,41.664267,-72.593507
-47,Brignole Vineyards,East Granby,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",118,4.0,$$,41.941873,-72.776673
-48,Lost Acres Vineyard,Granby,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",54,4.5,$$,42.0056686,-72.8561172
-49,Heartstone Winery,Columbia,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,4.0, ,,
-50,Rosedale Farm and Vineyard,Simsbury Center,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",57,3.5,$$,41.8512786146807,-72.7993579129043
-51,Arrigoni Winery,Portland,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",163,3.5,$$,41.566964,-72.593531
-52,Priam Vineyard,Colchester,CT,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",95,4.0,$$,41.56662,-72.40503
-53,Cassidy Hill Vineyard,Coventry,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",50,4.5,$$,41.8320083618164,-72.3269348144531
-54,Connecticut Valley Winery,New Hartford,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",64,4.0,$$,41.822204,-73.058914
-55,Penns Woods Winery,Chadds Ford,PA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",83,4.5,$$,39.84729,-75.54666
-56,Salem Oak Vineyards,Pedricktown,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",38,5.0,$$,39.7617027,-75.4097575
-57,Harvest Ridge Winery,Toughkenamon,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,4.5, ,,
-58,Galer Estate Vineyard & Winery,Kennett Square,PA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",68,3.5,$$,39.8793787,-75.6819928
-59,Collier's of Centreville,Wilmington,DE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",8,4.0,$$$$,39.82234,-75.61768
-60,Chaddsford Winery,Chadds Ford,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",150,3.5,$$,39.87285,-75.6263
-61,Auburn Road Vineyard and Winery,Pilesgrove,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",113,4.0,$$,39.67417,-75.368552
-62,Paradocx Vineyard,Kennett Square,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,3.0,$$,39.846089,-75.713346
-63,FranksWine,Wilmington,DE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",23,3.5,$$$,39.756718,-75.567446
-64,The Gables At Chadds Ford,Chadds Ford,PA,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",172,3.5,$$,39.874609,-75.62004
-65,Pop The Cork Wine Tours,Atlanta,GA,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",23,5.0, ,,
-66,ATL Vineyard Express,Atlanta,GA,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",6,5.0, ,,
-67,The Bailey Wine Cellar,Atlanta,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",23,4.5, ,,
-68,Wine Tours of Georgia,Atlanta,GA,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",9,5.0, ,,
-69,Urban Tree Cidery,Atlanta,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'cideries', 'title': 'Cideries'}]",117,4.5,$$,33.7948218371632,-84.4148407556039
-70,The Grape @ Sandy Springs,Sandy Springs,GA,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,4.0, ,,
-71,Barcelona VinoTeca,Atlanta,GA,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'giftshops', 'title': 'Gift Shops'}]",55,4.5,$$,33.76198,-84.35854
-72,Winery Journeys,Atlanta,GA,"[{'alias': 'hiking', 'title': 'Hiking'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'rafting', 'title': 'Rafting/Kayaking'}]",9,3.5, ,,
-73,Deep Roots Wine Market & Tasting Room,Roswell,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",30,5.0,$$,34.027171,-84.360468
-74,Wine Workshop and Brew Center,Decatur,GA,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,4.5,$$,33.78132,-84.27399
-75,Oeno Winemaking,Kailua,HI,"[{'alias': 'wineries', 'title': 'Wineries'}]",164,4.5,$$,21.394888,-157.744667
-76,Island Distillers,Honolulu,HI,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",40,5.0,$$,21.2863,-157.69225
-77,HASR Wine,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",57,4.0,$$,21.31175,-157.86177
-78,Fujioka's Wine Times,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",80,4.5,$$,21.2879544043115,-157.815010350857
-79,Tamura's Fine Wine & Liquors Waialae,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'poke', 'title': 'Poke'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}]",414,4.0,$$,21.28407,-157.80124
-80,Dynamic Tour Hawaii,Honolulu,HI,"[{'alias': 'bustours', 'title': 'Bus Tours'}]",9,3.0, ,,
-81,NK Wine Shop,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",19,4.5,$$,21.3109427,-157.8631247
-82,Tamura's Fine Wine & Liquors Pearlridge,Aiea,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}, {'alias': 'poke', 'title': 'Poke'}]",257,4.0,$$,21.38426,-157.94491
-83,Tamura's Market Wahiawa,Wahiawa,HI,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'meats', 'title': 'Meat Shops'}]",129,4.0,$$,21.49819,-158.03048
-84,Telaya Wine,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",62,4.5,$$,43.622468,-116.235448
-85,Cinder,Garden City,ID,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",34,5.0,$$,43.634,-116.2533
-86,Coiled Wines,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,5.0,$$,43.6231289,-116.2391491
-87,8 Feathers Distillery,Boise,ID,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",9,5.0,$$,43.6070423573256,-116.294079869986
-88,Split Rail Winery,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}]",23,4.0,$$,43.63327,-116.25356
-89,Par Terre Winery,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}]",7,5.0, ,,
-90,SCORIA Vineyards,Boise,ID,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",1,4.0, ,,
-91,Potter Wines,Garden City,ID,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",5,5.0, ,,
-92,Boise Brews Cruise,boise,ID,"[{'alias': 'bustours', 'title': 'Bus Tours'}, {'alias': 'beertours', 'title': 'Beer Tours'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",16,5.0, ,,
-93,Frenchman's Gulch Winery,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-94,Country Heritage Winery - Plainfield,Plainfield,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",62,3.5,$$,39.6716805,-86.3677597
-95,Peace Water Winery,Indianapolis,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",84,4.5,$$,39.777343161051,-86.1450135335326
-96,Mallow Run Winery & Vineyard,Bargersville,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",126,4.5,$$,39.5470649,-86.2304229
-97,Sugar Creek Vineyard And Winery,Carmel,IN,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",30,5.0,$$,39.977592,-86.147899
-98,Hopwood Cellars Winery,Zionsville,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",55,4.5,$$,39.951524483077,-86.261690380132
-99,Hopwood Winery,Cloverdale,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-100,Sip & Share Wines,Indianapolis,IN,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",1,5.0, ,,
-101,Easley Winery,Indianapolis,IN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",128,4.5,$,39.7698614392024,-86.1452222754631
-102,The Cork and Barrel,Zionsville,IN,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",16,4.0, ,,
-103,Peace Water Winery,Carmel,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",103,4.5,$$,39.9781303405762,-86.1279907226562
-104,Vines to Wines,Des Moines,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",2,5.0, ,,
-105,Jasper Winery,Des Moines,IA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",38,4.0,$$,41.5671791146972,-93.6502256386231
-106,Wines of Iowa,West Des Moines,IA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",4,4.5,$$,41.5723145,-93.7089022
-107,WineStyles Tasting Station,West Des Moines,IA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",30,4.0,$$,41.5606950398427,-93.7830402865082
-108,WineStyles Tasting Station,Johnston,IA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",5,3.5,$$,,
-109,Prairie Hill Vineyard,Colwich,KS,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",3,5.0, ,,
-110,Beyond Napa At Rock Island,Wichita,KS,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",7,4.5,$$,37.6910000265337,-97.3286571104484
-111,Grace Hill Winery,Whitewater,KS,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",21,5.0,$$,37.965735,-97.188761
-112,Wyldewood Cellars,Wichita,KS,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",6,2.0,$$,37.680492401123,-97.4249572753906
-113,Wyldewood Cellars,Peck,KS,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",15,3.0,$$,37.4755013,-97.3242624
-114,Old 502 Winery,Louisville,KY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",86,4.0,$,38.256831,-85.7668769
-115,The Oak Barrel Tour Company,Jeffersonville,IN,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'bustours', 'title': 'Bus Tours'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",1,5.0, ,,
-116,Brooks Hill Winery,Brooks,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",33,4.5,$,38.06422,-85.74405
-117,The Little Kentucky River Winery,La Grange,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,5.0, ,,
-118,Talon Winery,Shelbyville,KY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",115,4.5,$$,38.190189,-85.2725773
-119,Millanova Winery,Mount Washington,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,4.0,$$,38.044549,-85.6059
-120,"Huber's Orchard, Winery & Vineyards",Borden,IN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'pickyourown', 'title': 'Pick Your Own Farms'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",172,4.0,$$,38.423084043011,-85.928203929459
-121,Wight-Meyer Vineyard & Winery,Shepherdsville,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",36,4.5,$$,37.9847152679756,-85.624610877385
-122,Turtle Run Winery,Corydon,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",31,4.5,$$,38.21274,-86.00815
-123,Forest Edge Winery,Shepherdsville,KY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",61,4.5,$$,37.924678,-85.666237
-124,Nola Tropical Winery,New Orleans,LA,"[{'alias': 'wineries', 'title': 'Wineries'}]",12,4.5,$$,29.9438675380837,-90.0620502
-125,WINO  Wine Institute of New Orleans,New Orleans,LA,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",231,4.0,$$,29.9473337084055,-90.0672423094511
-126,Bacchanal Fine Wine & Spirits,New Orleans,LA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",1119,4.5,$$,29.959824,-90.033259
-127,Old New Orleans Rum,New Orleans,LA,"[{'alias': 'tours', 'title': 'Tours'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",278,4.5,$,29.9865055084229,-90.0591354370117
-128,Preservation Hall,New Orleans,LA,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",738,4.5,$$,29.9583154,-90.0652291
-129,NOLA Tropical Winery,New Orleans,LA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",39,4.0,$$,29.948326,-90.063594
-130,Faubourg Wines,New Orleans,LA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",47,4.5,$$,29.9685344696045,-90.047477722168
-131,Pearl Wine Co,New Orleans,LA,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",67,4.0,$$,29.9772614,-90.092699
-132,Blue Lobster Urban Winery,Portland,ME,"[{'alias': 'wineries', 'title': 'Wineries'}]",16,4.5, ,,
-133,Sweetgrass Winery & Distillery Old Port Tasting Room and Shop,Portland,ME,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",46,4.0,$$,43.6570803916304,-70.2516965219256
-134,Cellardoor At the Point,Portland,ME,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",56,4.5,$$,43.65175,-70.29079
-135,Eighteen Twenty Wines,Portland,ME,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",12,4.5,$,43.67026,-70.25594
-136,Grippy Tannins,Portland,ME,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",6,5.0, ,,
-137,Vintners Cellar Winery of Portland,Portland,ME,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-138,The Maine Brew Bus,Portland,ME,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'breweries', 'title': 'Breweries'}]",97,5.0,$$,43.6576681,-70.2502402
-139,Stroudwater Distillery,Portland,ME,"[{'alias': 'distilleries', 'title': 'Distilleries'}]",43,4.0,$$,43.65175,-70.29079
-140,Browne Trading Market,Portland,ME,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}, {'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",18,4.5,$$,43.6542442,-70.2548658
-141,Thompson's Point,Portland,ME,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",37,3.0,$$,43.650239312754,-70.2916630898094
-142,Winecream,Baltimore,MD,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",9,4.0, ,,
-143,The Wine Source,Baltimore,MD,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'cheese', 'title': 'Cheese Shops'}]",167,4.5,$$,39.33176,-76.63096
-144,Pompeian,Baltimore,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,4.0, ,,
-145,Presidential Limo Service,Baltimore,MD,"[{'alias': 'limos', 'title': 'Limos'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'partybusrentals', 'title': 'Party Bus Rentals'}]",26,3.0, ,,
-146,Total Wine & More,Towson,MD,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}]",106,4.5,$$,39.399258,-76.563244
-147,Boston Winery,Boston,MA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",63,4.5,$$,42.29175,-71.04013
-148,Boston Wine Tours,Boston,MA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",7,4.5, ,,
-149,Wine Riot,Boston,MA,"[{'alias': 'festivals', 'title': 'Festivals'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",126,4.0,$,42.350661,-71.0701018
-150,Boston Harbor Distillery,Boston,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",33,4.5,$$,42.291792,-71.040837
-151,Bostonia Winery Cantina,Jamaica Plain,MA,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-152,Massachusetts Wine Shop,Boston,MA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",4,5.0,$$,42.36217,-71.05749
-153,Mayhew Wine Shop,Boston,MA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",8,5.0, ,,
-154,Boston Wine Expo,Boston,MA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",43,3.5,$$$,42.3512385328409,-71.0406308325409
-155,V Cirace & Son,Boston,MA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",34,4.5,$$,42.3629607260227,-71.0541187226772
-156,Venezia Restaurant Boston,Boston,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'wineries', 'title': 'Wineries'}]",206,3.5,$$$,42.29178,-71.04035
-157,House Of Pure Vin,Detroit,MI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",25,4.5,$$,42.334479,-83.0492428
-158,Detroit Vineyards,Detroit,MI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",22,4.0, ,,
-159,Michigan By The Bottle Tasting Room,Royal Oak,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",43,4.5,$$,42.5104414617361,-83.1783612235587
-160,Northville Winery and Brewing Company,Northville,MI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",49,4.0,$,42.4376041,-83.4762023
-161,Filipo Marc Winery,Clinton Township,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",20,4.5,$$,42.5842896,-82.9520798
-162,Vivace Estate Winery,Amherstburg,ON,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",2,4.5, ,,
-163,Parmenter's Northville Cider Mill,Northville,MI,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",137,4.0,$,42.437102,-83.4742
-164,Recolte Meads,Grosse Pointe Park,MI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'meaderies', 'title': 'Meaderies'}, {'alias': 'cideries', 'title': 'Cideries'}]",6,4.5, ,,
-165,Buon Amici Winery,Sterling Heights,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-166,Vintner's Canton Winery,Canton,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,3.5,$$,42.3485481,-83.4601582
-167,Urban Forage Winery & Cider House,Minneapolis,MN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",24,4.5,$$,44.9485204325413,-93.2276755972808
-168,7 Vines Vineyard,Dellwood,MN,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",20,4.5,$$,45.092457,-92.961967
-169,Saint Croix Vineyards,Stillwater,MN,"[{'alias': 'wineries', 'title': 'Wineries'}]",47,4.0,$$,45.04162,-92.86584
-170,The Vine Room,Hopkins,MN,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",10,5.0, ,,
-171,Alexis Bailly Vineyard Inc,Hastings,MN,"[{'alias': 'wineries', 'title': 'Wineries'}]",34,4.5,$$,44.68506,-92.87099
-172,Two Rivers Vineyard & Winery,Ramsey,MN,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,4.5,$$,45.218788,-93.422391
-173,Madison Avenue Wine & Spirits,Hudson,WI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",7,3.5,$$,44.9552888,-92.7386322
-174,Perrier Wines & Liquors,Saint Paul,MN,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",17,4.0,$$,44.9397834,-93.1279778
-175,MnBeerbus,Plymouth,MN,"[{'alias': 'bustours', 'title': 'Bus Tours'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'partybusrentals', 'title': 'Party Bus Rentals'}]",2,5.0, ,,
-176,Warehouse Winery,Minneapolis,MN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",10,3.5,$$$,44.9334525,-93.3615707
-177,Old Canton Rd Wine & Liquor,Ridgeland,MS,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,$$,32.4013976,-90.1084476
-178,Kansas City Wine Tours,Kansas City,MO,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",3,4.5, ,,
-179,Amigoni Urban Winery,Kansas City,MO,"[{'alias': 'wineries', 'title': 'Wineries'}]",105,4.5,$$,39.0948388429027,-94.6054816246033
-180,KC Wineworks,Kansas City,MO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",55,4.5,$$,39.09059,-94.5798499
-181,Aubrey Vineyards,Overland Park,KS,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",10,5.0, ,,
-182,Barley Bus Tours,Kansas City,MO,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'beertours', 'title': 'Beer Tours'}, {'alias': 'bustours', 'title': 'Bus Tours'}]",7,4.5, ,,
-183,Four Horses and a Dog Winery,Excelsior Springs,MO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",18,4.5, ,,
-184,KC Wine,Olathe,KS,"[{'alias': 'wineries', 'title': 'Wineries'}]",57,4.0,$$,38.8782920837402,-94.9249114990234
-185,Holy Field Vineyard & Winery,Basehor,KS,"[{'alias': 'wineries', 'title': 'Wineries'}]",34,4.5,$$,39.1169746957923,-94.9465826092632
-186,Underdog Wine Co,Kansas City,MO,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,4.5,$$,39.027359,-94.5837713
-187,Stone Pillar Vineyard & Winery,Olathe,KS,"[{'alias': 'wineries', 'title': 'Wineries'}]",48,3.5,$$,38.9286194,-94.818166
-188,Yellowstone Cellars & Winery,Billings,MT,"[{'alias': 'wineries', 'title': 'Wineries'}]",20,5.0,$$,45.74627,-108.55275
-189,Bodega Victoriana Winery,Glenwood,IA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",10,5.0, ,,
-190,Soaring Wings,Springfield,NE,"[{'alias': 'wineries', 'title': 'Wineries'}]",32,4.0,$$,41.06541,-96.1264
-191,Pacific Cellars,Omaha,NE,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",2,4.5,$$,41.2474051,-96.195226
-192,Too Far North - Nebraska Wines & Wine Tasting,Fort Calhoun,NE,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",5,5.0,$$,41.4561409567614,-96.0261632989173
-193,Cellar 426,Ashland,NE,"[{'alias': 'wineries', 'title': 'Wineries'}]",21,4.5,$$,41.025423887916,-96.3649008788513
-194,Ditmars Orchard & Vineyard,Council Bluffs,IA,"[{'alias': 'farms', 'title': 'Farms'}, {'alias': 'pumpkinpatches', 'title': 'Pumpkin Patches'}, {'alias': 'wineries', 'title': 'Wineries'}]",17,4.0,$$,41.29529,-95.76276
-195,Glacial Till Cider House & Tasting Room,Ashland,NE,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",28,4.0,$$,41.03884,-96.36893
-196,Omaha Wine Company,Omaha,NE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",6,3.5,$$$,41.2652955580695,-96.0897012018464
-197,Brother Sebastian's Steak House & Winery,Omaha,NE,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'wineries', 'title': 'Wineries'}]",230,4.0,$$$,41.2458525,-96.098618
-198,Vine Street Cellars,Glenwood,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.0,$$,41.0464908,-95.7417762
-199,Pahrump Valley Winery,Pahrump,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",317,4.0,$$,36.1910820007324,-115.944610595703
-200,Vegas Valley Winery,Henderson,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",70,4.5,$,36.054825,-115.0197426
-201,Sanders Family Winery,Pahrump,NV,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",73,4.5,$$,36.11815,-115.94394
-202,Las Vegas Distillery,Henderson,NV,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'tours', 'title': 'Tours'}]",99,5.0,$$,36.054555,-115.019143
-203,Icewine Tasting with Famed Vintner Donald Ziraldo,Las Vegas,NV,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",4,5.0, ,,
-204,Vegas Uncork'd: The Grand Tasting,Las Vegas,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",24,4.0,$$$$,36.1154492319337,-115.177751196257
-205,One Drunk Puppy,Las Vegas,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",5,3.0, ,,
-206,Wine Walk - Town Square,Las Vegas,NV,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",11,3.0, ,,
-207,Khoury's Fine Wine & Spirits,Las Vegas,NV,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",159,4.5,$$,36.0092075661323,-115.118134319519
-208,Wine Walk - Lake Las Vegas,Henderson,NV,"[{'alias': 'festivals', 'title': 'Festivals'}, {'alias': 'wineries', 'title': 'Wineries'}]",19,3.5,$$,36.102946,-114.928823
-209,LaBelle Winery,Amherst,NH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",179,4.0,$$,42.9019033,-71.5760547
-210,Zorvino Vineyards,Sandown,NH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",97,4.5,$$,42.9199574386853,-71.1756034549425
-211,Appolo Vineyards,Derry,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,4.0,$,42.87117,-71.28008
-212,Copper Beech Winery,Hooksett,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",3,4.5, ,,
-213,Third Colony Brewery & Winery,Manchester,NH,"[{'alias': 'brewingsupplies', 'title': 'Brewing Supplies'}, {'alias': 'wineries', 'title': 'Wineries'}]",1,1.0, ,,
-214,Fulchino Vineyard,Hollis,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",47,4.5,$$,42.7550856,-71.5484734
-215,Averill House Vineyard,Brookline,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,4.0,$$,42.70976,-71.67463
-216,WineNot Boutique,Nashua,NH,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",25,5.0, ,,
-217,Willow Spring Vineyards,Haverhill,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",14,4.5,$$,42.77564,-71.14077
-218,Sweet Baby Vineyard,Hampstead,NH,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",56,4.0,$$,42.858024,-71.17288
-219,The Red Hook Winery,Brooklyn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",116,4.0,$$,40.676695,-74.019153
-220,Tomasello Winery - Cranford,Cranford,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",3,3.5, ,,
-221,Tomasello Winery at Abma's Farm,Wyckoff,NJ,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",8,4.5, ,,
-222,NY Wine Tours,New York,NY,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",4,5.0, ,,
-223,The Little Wine Bus,Brooklyn,NY,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",118,4.0, ,,
-224,Rooftop Reds,Brooklyn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",119,4.5,$$,40.7025733903159,-73.9698984748688
-225,City Vineyard,New York,NY,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",876,4.0,$$,40.7205582,-74.0118093
-226,Staten Island Winery,Staten Island,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",5,4.5,$$$,40.598855,-74.1820774
-227,Taste Wine Co.,New York,NY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",48,4.5,$$,40.73103,-73.98924
-228,Your Own Winery,Butler,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",26,5.0,$$,41.0081215,-74.3586099
-229,Ashley Lynn Winery,Mexico,NY,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'wineries', 'title': 'Wineries'}]",3,4.0,$,43.47751,-76.30501
-230,Grace Tyler Estate Winery,Constantia,NY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",1,5.0, ,,
-231,Colloca Estate,Fair Haven,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,3.5,$$,43.31295,-76.7144299
-232,Hot House Brewing,Cicero,NY,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",3,4.5, ,,
-233,Thorpe Vineyard,Wolcott,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",3,4.5, ,,
-234,Anyela's Vineyards,Skaneateles,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",46,4.0,$$,42.8884,-76.41842
-235,White Caps Winery,Chaumont,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",3,4.5, ,,
-236,CJS Vineyards,Auburn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,5.0,$,42.9513397,-76.6697998
-237,Tug Hill Vineyards,Lowville,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",25,4.0,$$,43.82125,-75.57587
-238,Beak & Skiff Apple Orchards,Lafayette,NY,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'cafes', 'title': 'Cafes'}]",75,4.0,$$,42.903268,-76.2225437
-239,Rocky River Vineyards,Midland,NC,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",36,4.5,$$,35.26264,-80.46199
-240,Seven Jars,Charlotte,NC,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",14,4.5, ,,
-241,Treehouse Vineyards,Monroe,NC,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",153,4.0,$$,34.9691087,-80.5513935
-242,Cabo Winery,Concord,NC,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",29,5.0,$$,35.4099659,-80.5802727
-243,Foxcroft Wine Co - Southpark,Charlotte,NC,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",83,4.0,$$,35.1474555,-80.809042
-244,Kefi Vineyards and Winery,Monroe,NC,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-245,Azure Skye Beverages,Charlotte,NC,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-246,Petit Philippe,Charlotte,NC,"[{'alias': 'chocolate', 'title': 'Chocolatiers & Shops'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",45,4.5,$$,35.1747729,-80.8396481
-247,Cats Paw Winery,Rock Hill,SC,"[{'alias': 'wineries', 'title': 'Wineries'}]",16,4.0,$$,34.922351,-81.131388
-248,Cougar Run Winery,Concord,NC,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,3.5,$$,35.4204683750868,-80.5902341008186
-249,4e Winery,Mapleton,ND,"[{'alias': 'wineries', 'title': 'Wineries'}]",2,5.0, ,,
-250,Red Trail Vineyard,Buffalo,ND,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",3,4.5,$$,46.9011,-97.49441
-251,Maple River Winery,Casselton,ND,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.0,$$,46.90086,-97.212017
-252,Wyandotte Winery,Columbus,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",70,4.5,$$,40.0684471130371,-82.8932952880859
-253,Otter Creek Vineyards,Johnstown,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",7,5.0, ,,
-254,The Twisted Vine,Columbus,OH,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",27,4.5,$$,39.989522,-83.055167
-255,Powell Village Winery,Powell,OH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",51,4.5,$,40.156731,-83.074432
-256,Graystone Winery & Restaurant,Columbus,OH,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}]",6,5.0, ,,
-257,Wine on High,Columbus,OH,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",73,4.0,$$,39.978485,-83.004091
-258,Good Vibes Winery,Westerville,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",26,4.5,$$,40.1258354187012,-82.9313583374023
-259,Via Vecchia Winery,Columbus,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,3.5,$$,39.918708,-82.99497
-260,Plum Run Winery,Grove City,OH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",34,3.5,$$,39.8837952,-83.0921886
-261,Cooper's Hawk Winery & Restaurant - Columbus,Columbus,OH,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",678,4.0,$$,40.05428,-82.91498
-262,Water's Edge Winery - OKC,Oklahoma City,OK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",41,4.5,$$,35.47457,-97.51383
-263,Strebel Creek Vineyard & Gift Shop,Oklahoma City,OK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'accessories', 'title': 'Accessories'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",12,5.0,$$,35.58705,-97.62159
-264,Put A Cork In It,Oklahoma City,OK,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'giftshops', 'title': 'Gift Shops'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",58,4.5,$$,35.46559,-97.51001
-265,Clauren Ridge Vineyard and Winery,Edmond,OK,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",24,4.5,$$,35.7257828,-97.5603605
-266,The OKC Cellar,Oklahoma City,OK,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",4,5.0,$$,35.5499992,-97.5158278
-267,Tres Suenos,Luther,OK,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",7,4.5,$$$,35.7534417,-97.173751
-268,Coal Creek Vineyard & Winery,Tuttle,OK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",3,3.5, ,,
-269,Homestead on Route 66,Yukon,OK,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",21,4.0, ,,
-270,Farfalla Wines,Yukon,OK,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",3,3.5, ,,
-271,Redbud Ridge Vineyard & Winery,Norman,OK,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,4.5,$,35.189719285473,-97.3338040292313
-272,ENSO Winery,Portland,OR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",208,4.5,$$,45.5192482,-122.6511585
-273,Seven Bridges Winery,Portland,OR,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",22,4.5,$$,45.5394217,-122.6783201
-274,The Portland Wine Bar & Winery Tasting Room,Portland,OR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",194,4.5,$$,45.5181864746535,-122.678645531942
-275,Willamette Valley Tour,Portland,OR,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'hiking', 'title': 'Hiking'}]",3,5.0, ,,
-276,Tesla Custom Winery Tours,Portland,OR,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",39,5.0, ,,
-277,Thelonious Wines,Portland,OR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",60,4.5,$$,45.5267818272114,-122.680177465081
-278,Backcountry Wine Tours,Portland,OR,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",80,5.0, ,,
-279,Wine Tours Northwest,Portland,OR,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",43,5.0, ,,
-280,Monte Ferro Winery,Lake Oswego,OR,"[{'alias': 'wineries', 'title': 'Wineries'}]",10,4.5, ,,
-281,Coopers Hall,Portland,OR,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",136,4.5,$$,45.5198503,-122.6593782
-282,Blue Mountain Vineyards & Cellars,Philadelphia,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,4.5, ,,
-283,Cedarvale Winery,Swedesboro,NJ,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",17,4.5,$$,39.809968007239,-75.3112717423806
-284,Pinot Boutique,Philadelphia,PA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",89,4.0,$$,39.950378,-75.144639
-285,Grace Winery,Glen Mills,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",27,3.5,$$,39.9275635818787,-75.4777331939296
-286,Penns Woods Winery,Chadds Ford,PA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",83,4.5,$$,39.84729,-75.54666
-287,South Jersey Wine Tours,Westville,NJ,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'bustours', 'title': 'Bus Tours'}]",9,4.0, ,,
-288,Wine School of Philadelphia,Philadelphia,PA,"[{'alias': 'specialtyschools', 'title': 'Specialty Schools'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",66,4.5,$$,39.952073,-75.176908
-289,Rich Valley Wines,Emporium,PA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",1,5.0, ,,
-290,Amalthea Cellars Farm Winery,Atco,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",47,4.5,$$,39.73838,-74.88614
-291,Delaware Valley Tours,Mount Laurel,NJ,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'beertours', 'title': 'Beer Tours'}, {'alias': 'brewpubs', 'title': 'Brewpubs'}]",5,5.0, ,,
-292,Verde Vineyards,Johnston,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",53,5.0,$$,41.8444537941493,-71.5699197975435
-293,Diamond Hill Vineyards,Cumberland,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",63,4.5,$$,41.9744461,-71.4062825
-294,Newport Vineyards & Winery,Middletown,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",391,3.5,$$,41.529288,-71.272548
-295,Mulberry Vineyard,Glocester,RI,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",20,4.5,$$,41.8932683765888,-71.6635273396969
-296,Carolyn's Sakonnet Vineyards,Little Compton,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",137,4.0,$$,41.531614,-71.189793
-297,Warren Cider Works,Warren,RI,"[{'alias': 'cideries', 'title': 'Cideries'}, {'alias': 'wineries', 'title': 'Wineries'}]",14,5.0, ,,
-298,Greenvale Vineyards,Portsmouth,RI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",118,4.0,$$,41.5359966,-71.2478783
-299,Debevino Winery,Walpole,MA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",5,5.0, ,,
-300,Leyden Farm Vineyard & Winery,West Greenwich,RI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'christmastrees', 'title': 'Christmas Trees'}]",51,4.0,$$,41.6453149,-71.703607
-301,Gracie's,Providence,RI,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",652,4.5,$$$,41.82197,-71.41585
-302,The Winery at Mercer House,Lexington,SC,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.0,$$,33.9994662,-81.3690681
-303,Enoree River Vineyards & Winery,Newberry,SC,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.5,$$,34.313216,-81.560975
-304,Palmetto Package Shops,Aiken,SC,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-305,Tucker's Walk Vineyard and Farm Winery,Garretson,SD,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",2,5.0, ,,
-306,Wilde Prairie Winery,Brandon,SD,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-307,Calico Skies Vineyard and Winery,Inwood,IA,"[{'alias': 'localflavor', 'title': 'Local Flavor'}, {'alias': 'wineries', 'title': 'Wineries'}]",7,4.0,$,43.2949715,-96.5229416
-308,Strawbale Winery,Renner,SD,"[{'alias': 'wineries', 'title': 'Wineries'}]",7,5.0,$$,43.6588897705078,-96.7683792114258
-309,Old Millington Vineyard & Winery,Millington,TN,"[{'alias': 'wineries', 'title': 'Wineries'}]",16,4.0,$,35.3100052,-89.953186
-310,Delta Blues Winery,Lakeland,TN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",22,4.5,$$,35.3063308310131,-89.7282829105462
-311,Quench Wine & Spirits,Memphis,TN,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",8,5.0,$$,35.1422164535088,-90.052691916198
-312,de terra Vineyard and Wines of Somerville,Somerville,TN,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",2,3.5,$,35.366813659668,-89.345329284668
-313,Sable Gate Winery,Houston,TX,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cafes', 'title': 'Cafes'}]",105,4.0,$$,29.7458134,-95.3753481
-314,Decant Urban Winery,Houston,TX,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",13,5.0, ,,
-315,Texas Winos,Houston,TX,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",60,3.5, ,,
-316,The Nice Winery,Houston,TX,"[{'alias': 'wineries', 'title': 'Wineries'}]",10,4.5,$$,29.8200624,-95.5649807
-317,The Solaro Winery,Houston,TX,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",14,3.5,$$,29.7764727486551,-95.4177651554346
-318,Mutiny Wine Room,Houston,TX,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",24,4.0, ,,
-319,Braman Winery And Brewery,Richmond,TX,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'breweries', 'title': 'Breweries'}]",78,4.0,$$,29.626032,-95.762064
-320,La Fuente Winery,Houston,TX,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",28,4.0,$$,29.8091544,-95.4692563
-321,Yellow Rose Distilling,Houston,TX,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",61,4.5,$$,29.7884236306527,-95.4564724427703
-322,Sonoma Wine Bar - Upper Kirby,Houston,TX,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",236,4.0,$$,29.7344229,-95.4208099
-323,Ruth Lewandowski Wines,Salt Lake City,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,$$,40.6986597,-111.8999291
-324,Fox School of Wine,Park City,UT,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",7,5.0, ,,
-325,The Hive Winery,Layton,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,4.5,$$,41.0667821293317,-111.987499594688
-326,Old Town Cellars,Park City,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",52,4.5,$$,40.6433169,-111.4953838
-327,State Wine Store,Salt Lake City,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",28,4.0,$$,40.7352529,-111.8990236
-328,"Wine Racks America, Inc.",North Salt Lake,UT,"[{'alias': 'furniture', 'title': 'Furniture Stores'}, {'alias': 'wineries', 'title': 'Wineries'}]",10,2.0,$$,40.845519,-111.9274702
-329,350 Main Brasserie,Park City,UT,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",159,3.0,$$$,40.642807,-111.49501
-330,Shelburne Vineyard,Shelburne,VT,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",83,4.0,$$,44.3664083,-73.2339033
-331,Hillis' Sugarbush Farm & Vineyard,Colchester,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,$$,44.5931473,-73.1924667
-332,Mad River Distillers,Burlington,VT,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",38,4.5,$$,44.476045,-73.214311
-333,East Shore Vineyard,South Hero,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,4.0,$$,44.628057,-73.284978
-334,Elfs Farm Winery & Cider Mill,Plattsburgh,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",22,5.0,$$,44.743176,-73.425263
-335,Charlotte Village Winery,Charlotte,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,4.5,$$,44.295,-73.25721
-336,Snow Farm Vineyard,South Hero,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,3.5,$$,44.6268,-73.33302
-337,Vine to Wine Concierge,South Burlington,VT,"[{'alias': 'winetours', 'title': 'Wine Tours'}]",1,5.0, ,,
-338,Highlands Vineyard,Keeseville,NY,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",2,5.0, ,,
-339,Boyden Valley Winery & Spirits,Cambridge,VT,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'cideries', 'title': 'Cideries'}]",78,4.5,$$,44.647801,-72.888869
-340,Lexington Valley Vineyard,Rockbridge Baths,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.5,$,37.8652627,-79.4190475
-341,Jump Mountain Vineyard,Rockbridge Baths,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",2,4.5,$$,37.935349,-79.387184
-342,Rockbridge Vineyard,Raphine,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",49,4.0,$$,37.941859,-79.241143
-343,Rock Roadhouse Winery,Hot Springs,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-344,12 Ridges Vineyard,Raphine,VA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'weddingchappels', 'title': 'Wedding Chapels'}]",2,4.5, ,,
-345,Barren Ridge Vineyards,Fishersville,VA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",38,4.5,$$,38.13368,-78.9558799
-346,Ox-Eye Vineyards Tasting Room,Staunton,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",23,4.5,$$,38.14695,-79.07391
-347,Ankida Ridge Vineyards,Amherst,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",12,5.0,$$,37.7095108,-79.1723633
-348,Veritas Vineyard & Winery,Afton,VA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",242,4.0,$$,38.0153251,-78.8363227
-349,Blue Ridge Vineyard,Eagle Rock,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",20,4.0,$$,37.629506,-79.749597
-350,Swiftwater Cellars,Cle Elum,WA,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wineries', 'title': 'Wineries'}]",205,4.0,$$$,47.20803,-120.99344
-351,Ellensburg Canyon Winery,Ellensburg,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,5.0,$$,46.89984,-120.4886
-352,Gard Vintners Wine Tasting Room,Ellensburg,WA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",14,5.0,$$,46.995148,-120.547655
-353,Wedge Mountain Winery,Peshastin,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",17,4.5,$$,47.5679981,-120.5899817
-354,Icicle Ridge Winery,Peshastin,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",49,4.5,$$,47.580145,-120.606384
-355,Silvara Cellars,Leavenworth,WA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",63,4.0,$$,47.575942,-120.6143999
-356,Chateau Faire Le Pont Winery,Wenatchee,WA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",107,4.0,$$,47.464409,-120.328062
-357,Hard Hat Winery,Wenatchee,WA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",1,5.0, ,,
-358,Leony's Cellars,Cashmere,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,5.0,$$,47.5209022663806,-120.466975799151
-359,Thrall & Dodge Winery,Ellensburg,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,5.0,$$,46.9252899,-120.45522
-360,Twisted Vine Family Vineyard,Patriot,OH,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",2,5.0, ,,
-361,Chestnut Ridge Winery,Spencer,WV,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,5.0,$$,38.800738,-81.364894
-362,Daniel Vineyards,Crab Orchard,WV,"[{'alias': 'wineries', 'title': 'Wineries'}]",5,5.0, ,,
-363,Merry Family Winery,Bidwell,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,4.0,$,38.8796899,-82.29651
-364,Twisted Path Distillery,Milwaukee,WI,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",33,4.5,$$,43.00733,-87.91065
-365,Cedar Creek Winery,Cedarburg,WI,"[{'alias': 'wineries', 'title': 'Wineries'}]",64,4.5,$$,43.301318592945,-87.988944679619
-366,Thief Wine Shop & Bar,Milwaukee,WI,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",76,4.5,$$,43.0352147065604,-87.9082923683227
-367,Pieper Porch Winery & Vineyard,Mukwonago,WI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",12,4.5,$$,42.921977,-88.314854
-368,Two Brothers Wines,Richfield,WI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'galleries', 'title': 'Art Galleries'}]",13,5.0,$$,43.258337,-88.19568
-369,The Village Cheese Shop,Wauwatosa,WI,"[{'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",17,4.5,$$,43.05025,-88.00821
-370,Cooper's Hawk Winery & Restaurant - Brookfield,Brookfield,WI,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",354,4.0,$$$,43.0312273,-88.1087896
-371,Sunshine Winery,Cedarburg,WI,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0, ,,
-372,Apple Works Winery,Germantown,WI,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,4.0, ,,
-373,Chiselled Grape Winery,Cedarburg,WI,"[{'alias': 'wineries', 'title': 'Wineries'}]",29,4.0,$$,43.301528,-87.989784
+,Business Name,City,State,Category,Review Count,Rating,Lat,Lng,Price
+0,Cat-n-Bird Winery,Chelsea,AL,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",20,5.0,33.35086,-86.65443,$$
+1,Ozan Vineyard & Winery,Calera,AL,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'wineries', 'title': 'Wineries'}]",33,4.0,33.102898,-86.71651,$$
+2,Corbin Farms Winery,Calera,AL,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",44,4.5,33.175772,-86.775198,$$
+3,Morgan Creek Vineyards,Harpersville,AL,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",19,4.0,33.32664,-86.45676,$$
+4,Hidden Meadow Vineyard,Jemison,AL,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",2,3.0,32.95987,-86.7478,$
+5,Lewis Lakes Vineyards,Columbiana,AL,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,33.2019712461649,-86.6135306082994,$$
+6,Black Warrior Brewing Company,Tuscaloosa,AL,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",49,4.5,33.2106954,-87.5663436,$
+7,Wills Creek Vineyards,Attalla,AL,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'wedding_planning', 'title': 'Wedding Planning'}]",8,4.5,34.1483687061207,-85.9967213597446,$
+8,Alaska Denali Winery,Anchorage,AK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",14,5.0,61.1129445673147,-149.861654806162,$$
+9,UnWINEd,Anchorage,AK,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",10,5.0,61.1885154,-149.8691321,$$
+10,Carlson Creek Vineyard,Scottsdale,AZ,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",52,4.5,33.49577,-111.92934,$$
+11,LDV Winery,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",82,4.5,33.49946,-111.92786,$$
+12,Vinum 55,Phoenix,AZ,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",3,5.0,33.5254,-112.04698,$$$
+13,Desert Rock Winery,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",28,4.5,33.62044,-111.92241,$
+14,Merkin Vineyards - Scottsdale,Scottsdale,AZ,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",49,4.5,33.4991271,-111.9275254,$$
+15,Aridus Scottsdale Tasting Room,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",82,4.5,33.4928431,-111.9267253,$$
+16,Winery 101,Peoria,AZ,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",65,4.5,33.5652551548974,-112.259073952473,$$
+17,Su Vino Winery,Scottsdale,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",298,4.0,33.4933258946298,-111.923836906745,$$
+18,Salvatore Vineyards Tasting Room,Scottsdale,AZ,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",55,4.5,33.498319,-111.929079,$$
+19,Garage-East,Gilbert,AZ,"[{'alias': 'wineries', 'title': 'Wineries'}]",85,4.5,33.32182,-111.72617,$$
+20,An Enchanting Evening,Roland,AR,"[{'alias': 'bedbreakfast', 'title': 'Bed & Breakfast'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",6,5.0,34.92407,-92.5631499,$$
+21,The Winery,Hot Springs National Park,AR,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,4.0,34.49862,-93.05593,$$
+22,Bath House Row Winery,Hot Springs,AR,"[{'alias': 'wineries', 'title': 'Wineries'}]",24,4.0,34.51706,-93.0542,$$
+23,Spa City Tropical Winery & Gifts,Hot Springs,AR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",8,4.0,34.5158920288086,-93.0538558959961,$$
+24,Westbrook Wine Farm,O'Neals,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",30,4.5,37.164408,-119.648028,$$
+25,Idle Hour Winery & Kitchen,Oakhurst,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",27,4.5,37.346779,-119.639931,$$
+26,Butterfly Creek Winery & Vineyards,Mariposa,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",11,4.0,37.5016021728516,-119.86483001709,$
+27,Fäsi Estate Winery,Friant,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",43,4.5,37.0410139,-119.777653,$$
+28,Cedar View Winery,Sanger,CA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",29,4.5,36.7137,-119.44604,$$
+29,Casto Oaks Fine Wine and Art,Mariposa,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",10,4.5,37.4844764918089,-119.964952468872,$$
+30,Quady Winery,Madera,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",48,4.5,36.939811706543,-120.106948852539,$$
+31,Birdstone Winery,Madera,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",28,4.0,36.88586,-119.8957,$$
+32,Ziveli Winery,Fresno,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",27,5.0,36.8202743134699,-120.014516466716,$$
+33,Toca Madera Winery,Madera,CA,"[{'alias': 'wineries', 'title': 'Wineries'}]",53,4.0,36.8802488,-119.8904101,$$
+34,Balistreri Vineyards,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",202,4.5,39.81598,-104.96478,$$
+35,The Infinite Monkey Theorem,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}]",220,4.5,39.7644113,-104.9775979,$$
+36,Bigsby's Folly,Denver,CO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",143,4.5,39.76995,-104.97636,$$
+37,Blanchard Family Wines,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'paintandsip', 'title': 'Paint & Sip'}]",42,4.5,39.7533251,-104.9963574,$$
+38,Deep Roots Winery and Bistro,Denver,CO,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",123,4.5,39.75039,-105.0006,$$
+39,Carboy Winery - Denver,Denver,CO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'giftshops', 'title': 'Gift Shops'}]",29,4.5,39.72714,-104.98222,$$
+40,Kingman Estates Winery,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",22,4.5,39.8123755,-104.9764913,$$
+41,Leopold Brothers,Denver,CO,"[{'alias': 'distilleries', 'title': 'Distilleries'}]",128,5.0,39.79273,-104.86244,$$
+42,Bonacquisti Wine Company,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}]",54,4.5,39.7808599,-105.005819,$$
+43,Spero Winery,Denver,CO,"[{'alias': 'wineries', 'title': 'Wineries'}]",33,4.5,39.8117713928223,-105.030319213867,$$
+44,Joseph Preli Farm and Vineyard,South Glastonbury,CT,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'pickyourown', 'title': 'Pick Your Own Farms'}, {'alias': 'wineries', 'title': 'Wineries'}]",21,4.5,41.664267,-72.593507,$$
+45,Brignole Vineyards,East Granby,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",118,4.0,41.941873,-72.776673,$$
+46,Lost Acres Vineyard,Granby,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",54,4.5,42.0056686,-72.8561172,$$
+47,Rosedale Farm and Vineyard,Simsbury Center,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",57,3.5,41.8512786146807,-72.7993579129043,$$
+48,Arrigoni Winery,Portland,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",163,3.5,41.566964,-72.593531,$$
+49,Priam Vineyard,Colchester,CT,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",95,4.0,41.56662,-72.40503,$$
+50,Cassidy Hill Vineyard,Coventry,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",50,4.5,41.8320083618164,-72.3269348144531,$$
+51,Connecticut Valley Winery,New Hartford,CT,"[{'alias': 'wineries', 'title': 'Wineries'}]",64,4.0,41.822204,-73.058914,$$
+52,Chateau Le Gari,Marlborough,CT,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",15,4.0,41.6057262001294,-72.4201004425792,$$
+53,New England Cider Company,Wallingford,CT,"[{'alias': 'cideries', 'title': 'Cideries'}]",50,4.5,41.478811,-72.819257,$$
+54,Penns Woods Winery,Chadds Ford,PA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",83,4.5,39.84729,-75.54666,$$
+55,Salem Oak Vineyards,Pedricktown,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",38,5.0,39.7617027,-75.4097575,$$
+56,Galer Estate Vineyard & Winery,Kennett Square,PA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",68,3.5,39.8793787,-75.6819928,$$
+57,Collier's of Centreville,Wilmington,DE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",8,4.0,39.82234,-75.61768,$$$$
+58,Chaddsford Winery,Chadds Ford,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",150,3.5,39.87285,-75.6263,$$
+59,Auburn Road Vineyard and Winery,Pilesgrove,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",113,4.0,39.67417,-75.368552,$$
+60,Paradocx Vineyard,Kennett Square,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,3.0,39.846089,-75.713346,$$
+61,FranksWine,Wilmington,DE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",23,3.5,39.756718,-75.567446,$$$
+62,Total Wine & More,Wilmington,DE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}, {'alias': 'headshops', 'title': 'Head Shops'}]",35,3.5,39.732018,-75.6669605,$$
+63,The Gables At Chadds Ford,Chadds Ford,PA,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",172,3.5,39.874609,-75.62004,$$
+64,Urban Tree Cidery,Atlanta,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'cideries', 'title': 'Cideries'}]",117,4.5,33.7948218371632,-84.4148407556039,$$
+65,Barcelona VinoTeca,Atlanta,GA,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'giftshops', 'title': 'Gift Shops'}]",55,4.5,33.76198,-84.35854,$$
+66,Deep Roots Wine Market & Tasting Room,Roswell,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",30,5.0,34.027171,-84.360468,$$
+67,Perrine's Wine Shop,Atlanta,GA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",54,4.5,33.78551,-84.41226,$$
+68,Wine Workshop and Brew Center,Decatur,GA,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,4.5,33.78132,-84.27399,$$
+69,Purple Corkscrew,Avondale Estates,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",16,4.5,33.775714,-84.271743,$$
+70,Wine Shoe,Atlanta,GA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",59,4.5,33.7516029,-84.3989958,$$
+71,Beer & Wine Craft,Sandy Spring,GA,"[{'alias': 'brewingsupplies', 'title': 'Brewing Supplies'}, {'alias': 'wineries', 'title': 'Wineries'}]",13,4.0,33.9226239,-84.3805687,$$
+72,Wahoo Wine and Provisions,Decatur,GA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'flowers', 'title': 'Flowers & Gifts'}]",12,4.5,33.7647895812988,-84.3106231689453,$$
+73,The Winery II,Chamblee,GA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",15,3.5,33.9193344116211,-84.3028717041016,$$
+74,Oeno Winemaking,Kailua,HI,"[{'alias': 'wineries', 'title': 'Wineries'}]",164,4.5,21.394888,-157.744667,$$
+75,Island Distillers,Honolulu,HI,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",40,5.0,21.2863,-157.69225,$$
+76,HASR Wine,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",57,4.0,21.31175,-157.86177,$$
+77,Fujioka's Wine Times,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",80,4.5,21.2879544043115,-157.815010350857,$$
+78,Tamura's Fine Wine & Liquors Waialae,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'poke', 'title': 'Poke'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}]",414,4.0,21.28407,-157.80124,$$
+79,NK Wine Shop,Honolulu,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",19,4.5,21.3109427,-157.8631247,$$
+80,Tamura's Fine Wine & Liquors Pearlridge,Aiea,HI,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}, {'alias': 'poke', 'title': 'Poke'}]",257,4.0,21.38426,-157.94491,$$
+81,Tamura's Market Wahiawa,Wahiawa,HI,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'meats', 'title': 'Meat Shops'}]",129,4.0,21.49819,-158.03048,$$
+82,Telaya Wine,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",62,4.5,43.622468,-116.235448,$$
+83,Cinder,Garden City,ID,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",34,5.0,43.634,-116.2533,$$
+84,Coiled Wines,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,5.0,43.6231289,-116.2391491,$$
+85,8 Feathers Distillery,Boise,ID,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",9,5.0,43.6070423573256,-116.294079869986,$$
+86,Split Rail Winery,Garden City,ID,"[{'alias': 'wineries', 'title': 'Wineries'}]",23,4.0,43.63327,-116.25356,$$
+87,Western Collective,Garden City,ID,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",58,4.5,43.62109,-116.23892,$$
+88,City Peanut Shop,Boise,ID,"[{'alias': 'gourmet', 'title': 'Specialty Food'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",34,4.5,43.6172010566921,-116.202238474175,$$
+89,Country Heritage Winery - Plainfield,Plainfield,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",62,3.5,39.6716805,-86.3677597,$$
+90,Peace Water Winery,Indianapolis,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",84,4.5,39.777343161051,-86.1450135335326,$$
+91,Mallow Run Winery & Vineyard,Bargersville,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",126,4.5,39.5470649,-86.2304229,$$
+92,Sugar Creek Vineyard And Winery,Carmel,IN,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",30,5.0,39.977592,-86.147899,$$
+93,Hopwood Cellars Winery,Zionsville,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",55,4.5,39.951524483077,-86.261690380132,$$
+94,Peace Water Winery,Carmel,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",103,4.5,39.9781303405762,-86.1279907226562,$$
+95,Easley Winery,Indianapolis,IN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",128,4.5,39.7698614392024,-86.1452222754631,$
+96,Cedar Creek Winery,Martinsville,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",45,4.0,39.40307,-86.35849,$$
+97,Vintage Indiana Wine & Food Festival,Indianapolis,IN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'festivals', 'title': 'Festivals'}]",37,4.0,39.771949,-86.168693,$$
+98,Urban Vines Winery & Brewery,Westfield,IN,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'breweries', 'title': 'Breweries'}]",226,4.5,40.020439088058,-86.1538228884454,$$
+99,Jasper Winery,Des Moines,IA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",38,4.0,41.5671791146972,-93.6502256386231,$$
+100,Summerset Winery,Indianola,IA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",14,4.5,41.4356536865234,-93.5226058959961,$$
+101,Madison County Winery,Saint Charles,IA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",4,5.0,41.2868,-93.86171,$$
+102,Covered Bridges Winery,Winterset,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",5,4.0,41.4038944548803,-94.01073127985,$$
+103,La Vida Loca Winery,Indianola,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,5.0,41.36473,-93.65786,$$
+104,Two Saints Winery,Saint Charles,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",3,4.5,41.30704,-93.77234,$$
+105,Snus Hill Vineyard & Winery,Madrid,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,4.5,41.893185,-93.740628,$$
+106,Prairie Moon Winery,Ames,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,4.0,42.0790061950684,-93.6703338623047,$$
+107,Van Wijk Winery,Sully,IA,"[{'alias': 'galleries', 'title': 'Art Galleries'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",5,4.0,41.578054,-92.844494,$$
+108,Wines of Iowa,West Des Moines,IA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",4,4.5,41.5723145,-93.7089022,$$
+109,Wheat State Wine,Winfield,KS,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",4,5.0,37.1514434814453,-96.9223709106445,$$
+110,Beyond Napa At Rock Island,Wichita,KS,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",7,4.5,37.6910000265337,-97.3286571104484,$$
+111,Grace Hill Winery,Whitewater,KS,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",21,5.0,37.965735,-97.188761,$$
+112,Wyldewood Cellars,Wichita,KS,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",6,2.0,37.680492401123,-97.4249572753906,$$
+113,Wyldewood Cellars,Peck,KS,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",15,3.0,37.4755013,-97.3242624,$$
+114,Old 502 Winery,Louisville,KY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",86,4.0,38.256831,-85.7668769,$
+115,Brooks Hill Winery,Brooks,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",33,4.5,38.06422,-85.74405,$
+116,Talon Winery,Shelbyville,KY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",115,4.5,38.190189,-85.2725773,$$
+117,Millanova Winery,Mount Washington,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,4.0,38.044549,-85.6059,$$
+118,"Huber's Orchard, Winery & Vineyards",Borden,IN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'pickyourown', 'title': 'Pick Your Own Farms'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",172,4.0,38.423084043011,-85.928203929459,$$
+119,Wight-Meyer Vineyard & Winery,Shepherdsville,KY,"[{'alias': 'wineries', 'title': 'Wineries'}]",36,4.5,37.9847152679756,-85.624610877385,$$
+120,Turtle Run Winery,Corydon,IN,"[{'alias': 'wineries', 'title': 'Wineries'}]",31,4.5,38.21274,-86.00815,$$
+121,The Wine Rack,Louisville,KY,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",34,4.5,38.25419,-85.69468,$$
+122,Forest Edge Winery,Shepherdsville,KY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",61,4.5,37.924678,-85.666237,$$
+123,Best Vineyards Winery & Distillery,Elizabeth,IN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",14,3.5,38.15081,-85.96997,$
+124,Nola Tropical Winery,New Orleans,LA,"[{'alias': 'wineries', 'title': 'Wineries'}]",12,4.5,29.9438675380837,-90.0620502,$$
+125,WINO  Wine Institute of New Orleans,New Orleans,LA,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",231,4.0,29.9473337084055,-90.0672423094511,$$
+126,Bacchanal Fine Wine & Spirits,New Orleans,LA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}]",1118,4.5,29.959824,-90.033259,$$
+127,Old New Orleans Rum,New Orleans,LA,"[{'alias': 'tours', 'title': 'Tours'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",278,4.5,29.9865055084229,-90.0591354370117,$
+128,NOLA Tropical Winery,New Orleans,LA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",39,4.0,29.948326,-90.063594,$$
+129,Faubourg Wines,New Orleans,LA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",47,4.5,29.9685344696045,-90.047477722168,$$
+130,Preservation Hall,New Orleans,LA,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'jazzandblues', 'title': 'Jazz & Blues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",738,4.5,29.9583154,-90.0652291,$$
+131,Pearl Wine Co,New Orleans,LA,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",67,4.0,29.9772614,-90.092699,$$
+132,Sweetgrass Winery & Distillery Old Port Tasting Room and Shop,Portland,ME,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",46,4.0,43.6570803916304,-70.2516965219256,$$
+133,Cellardoor At the Point,Portland,ME,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",56,4.5,43.65175,-70.29079,$$
+134,Eighteen Twenty Wines,Portland,ME,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",12,4.5,43.67026,-70.25594,$
+135,The Maine Brew Bus,Portland,ME,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'breweries', 'title': 'Breweries'}]",97,5.0,43.6576681,-70.2502402,$$
+136,Stroudwater Distillery,Portland,ME,"[{'alias': 'distilleries', 'title': 'Distilleries'}]",43,4.0,43.65175,-70.29079,$$
+137,Browne Trading Market,Portland,ME,"[{'alias': 'seafoodmarkets', 'title': 'Seafood Markets'}, {'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",18,4.5,43.6542442,-70.2548658,$$
+138,Thompson's Point,Portland,ME,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",37,3.0,43.650239312754,-70.2916630898094,$$
+139,RSVP Discount Beverage,Portland,ME,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",48,4.0,43.6781806945801,-70.287467956543,$$
+140,Catoctin Breeze Vineyard,Thurmont,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",46,4.0,39.645214,-77.390783,$$
+141,Old Westminster Winery,Westminster,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",51,4.5,39.531875,-77.034191,$$
+142,Great Frogs,Annapolis,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",42,4.5,38.943565,-76.51535,$$
+143,Romano Vineyard & Winery,Brandywine,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",36,4.5,38.6754035949707,-76.7317276000977,$
+144,Crow Farm & Vineyard,Kennedyville,MD,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",30,5.0,39.317838,-75.928342,$$
+145,Chateau Bu-De Winery & Vineyard,Chesapeake City,MD,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",24,4.0,39.469662,-75.860542,$$
+146,Black Ankle Vineyards,Mount Airy,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",103,4.5,39.4588470458984,-77.1639404296875,$$$
+147,Fiore Winery,Pylesville,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,4.5,39.70931,-76.40053,$$
+148,Serpent Ridge Vineyard,Westminster,MD,"[{'alias': 'wineries', 'title': 'Wineries'}]",22,4.5,39.494618,-77.004885,$$
+149,Linganore Winecellars,Mount Airy,MD,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",179,4.0,39.4206,-77.19593,$$
+150,Boston Winery,Boston,MA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",63,4.5,42.29175,-71.04013,$$
+151,Wine Riot,Boston,MA,"[{'alias': 'festivals', 'title': 'Festivals'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",126,4.0,42.350661,-71.0701018,$
+152,Boston Harbor Distillery,Boston,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",33,4.5,42.291792,-71.040837,$$
+153,Massachusetts Wine Shop,Boston,MA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",4,5.0,42.36217,-71.05749,$$
+154,Boston Wine Expo,Boston,MA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",43,3.5,42.3512385328409,-71.0406308325409,$$$
+155,V Cirace & Son,Boston,MA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",34,4.5,42.3629607260227,-71.0541187226772,$$
+156,Venezia Restaurant Boston,Boston,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'wineries', 'title': 'Wineries'}]",206,3.5,42.29178,-71.04035,$$$
+157,The Wine Emporium,Boston,MA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",26,3.5,42.34297,-71.07841,$$
+158,The Wine Bottega,Boston,MA,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",82,4.0,42.36444,-71.05359,$$
+159,City Winery,Boston,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}]",297,3.0,42.3645485,-71.0589145,$$
+160,House Of Pure Vin,Detroit,MI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",25,4.5,42.334479,-83.0492428,$$
+161,Michigan By The Bottle Tasting Room,Royal Oak,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",43,4.5,42.5104414617361,-83.1783612235587,$$
+162,Northville Winery and Brewing Company,Northville,MI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",49,4.0,42.4376041,-83.4762023,$
+163,Filipo Marc Winery,Clinton Township,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",20,4.5,42.5842896,-82.9520798,$$
+164,Parmenter's Northville Cider Mill,Northville,MI,"[{'alias': 'donuts', 'title': 'Donuts'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",137,4.0,42.437102,-83.4742,$
+165,Vintner's Canton Winery,Canton,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,3.5,42.3485481,-83.4601582,$$
+166,St. Julian Winery - Tasting Room,Troy,MI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",34,4.5,42.534661,-83.113183,$$
+167,Cooper's Hawk Winery & Restaurant - Clinton Township,Clinton Township,MI,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",283,4.0,42.625864,-82.944326,$$$
+168,Superior Lakes,Harrison Township,MI,"[{'alias': 'wineries', 'title': 'Wineries'}]",14,4.5,42.56496,-82.84427,$$
+169,Michigan by the Bottle Tasting Room,Auburn Hills,MI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",18,5.0,42.6335696528199,-83.2211888051,$$
+170,Urban Forage Winery & Cider House,Minneapolis,MN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",24,4.5,44.9485204325413,-93.2276755972808,$$
+171,7 Vines Vineyard,Dellwood,MN,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",20,4.5,45.092457,-92.961967,$$
+172,Saint Croix Vineyards,Stillwater,MN,"[{'alias': 'wineries', 'title': 'Wineries'}]",47,4.0,45.04162,-92.86584,$$
+173,Alexis Bailly Vineyard Inc,Hastings,MN,"[{'alias': 'wineries', 'title': 'Wineries'}]",34,4.5,44.68506,-92.87099,$$
+174,Two Rivers Vineyard & Winery,Ramsey,MN,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,4.5,45.218788,-93.422391,$$
+175,Madison Avenue Wine & Spirits,Hudson,WI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",7,3.5,44.9552888,-92.7386322,$$
+176,Perrier Wines & Liquors,Saint Paul,MN,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",17,4.0,44.9397834,-93.1279778,$$
+177,Warehouse Winery,Minneapolis,MN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",10,3.5,44.9334525,-93.3615707,$$$
+178,Genesis Winemaking,Anoka,MN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",1,5.0,45.1975399,-93.38792,$$
+179,Aamodt's Apple Farm,Stillwater,MN,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",65,3.5,45.042152,-92.865745,$$
+180,Old Canton Rd Wine & Liquor,Ridgeland,MS,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,32.4013976,-90.1084476,$$
+181,Amigoni Urban Winery,Kansas City,MO,"[{'alias': 'wineries', 'title': 'Wineries'}]",105,4.5,39.0948388429027,-94.6054816246033,$$
+182,KC Wineworks,Kansas City,MO,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",55,4.5,39.09059,-94.5798499,$$
+183,Underdog Wine Co,Kansas City,MO,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,4.5,39.027359,-94.5837713,$$
+184,KC Wine,Olathe,KS,"[{'alias': 'wineries', 'title': 'Wineries'}]",58,4.0,38.8782920837402,-94.9249114990234,$$
+185,Holy Field Vineyard & Winery,Basehor,KS,"[{'alias': 'wineries', 'title': 'Wineries'}]",34,4.5,39.1169746957923,-94.9465826092632,$$
+186,Stone Pillar Vineyard & Winery,Olathe,KS,"[{'alias': 'wineries', 'title': 'Wineries'}]",48,3.5,38.9286194,-94.818166,$$
+187,Belvoir Winery,Liberty,MO,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",46,4.0,39.227845,-94.407577,$$
+188,Albonee Country Inn and Vineyards,Independence,MO,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,5.0,39.0771119671105,-94.3129381164908,$$
+189,Stonehaus Farms Winery,Lees Summit,MO,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",21,3.5,38.9442865,-94.2963328,$$
+190,Cellar Rat Wine Merchants,Kansas City,MO,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",84,4.5,39.093318,-94.584327,$$
+191,Yellowstone Cellars & Winery,Billings,MT,"[{'alias': 'wineries', 'title': 'Wineries'}]",20,5.0,45.74627,-108.55275,$$
+192,Pacific Cellars,Omaha,NE,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",2,4.5,41.2474051,-96.195226,$$
+193,Soaring Wings,Springfield,NE,"[{'alias': 'wineries', 'title': 'Wineries'}]",32,4.0,41.06541,-96.1264,$$
+194,Too Far North - Nebraska Wines & Wine Tasting,Fort Calhoun,NE,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",5,5.0,41.4561409567614,-96.0261632989173,$$
+195,Cellar 426,Ashland,NE,"[{'alias': 'wineries', 'title': 'Wineries'}]",21,4.5,41.025423887916,-96.3649008788513,$$
+196,Ditmars Orchard & Vineyard,Council Bluffs,IA,"[{'alias': 'farms', 'title': 'Farms'}, {'alias': 'pumpkinpatches', 'title': 'Pumpkin Patches'}, {'alias': 'wineries', 'title': 'Wineries'}]",17,4.0,41.29529,-95.76276,$$
+197,Glacial Till Cider House & Tasting Room,Ashland,NE,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",28,4.0,41.03884,-96.36893,$$
+198,Omaha Wine Company,Omaha,NE,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",6,3.5,41.2652955580695,-96.0897012018464,$$$
+199,Brother Sebastian's Steak House & Winery,Omaha,NE,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'wineries', 'title': 'Wineries'}]",230,4.0,41.2458525,-96.098618,$$$
+200,Vine Street Cellars,Glenwood,IA,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.0,41.0464908,-95.7417762,$$
+201,Vala's Pumpkin Patch,Gretna,NE,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'pumpkinpatches', 'title': 'Pumpkin Patches'}]",97,3.5,41.128576,-96.198947,$$
+202,Pahrump Valley Winery,Pahrump,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",317,4.0,36.1910820007324,-115.944610595703,$$
+203,Vegas Valley Winery,Henderson,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",70,4.5,36.054825,-115.0197426,$
+204,Sanders Family Winery,Pahrump,NV,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",73,4.5,36.11815,-115.94394,$$
+205,Las Vegas Distillery,Henderson,NV,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'tours', 'title': 'Tours'}]",99,5.0,36.054555,-115.019143,$$
+206,Vegas Uncork'd: The Grand Tasting,Las Vegas,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",24,4.0,36.1154492319337,-115.177751196257,$$$$
+207,Khoury's Fine Wine & Spirits,Las Vegas,NV,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",159,4.5,36.0092075661323,-115.118134319519,$$
+208,Wine Walk - Lake Las Vegas,Henderson,NV,"[{'alias': 'festivals', 'title': 'Festivals'}, {'alias': 'wineries', 'title': 'Wineries'}]",19,3.5,36.102946,-114.928823,$$
+209,Total Wine & More,Las Vegas,NV,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}]",306,4.5,36.163442,-115.288567,$$
+210,Wine Spectator's Grand Tour 2008,Las Vegas,NV,"[{'alias': 'wineries', 'title': 'Wineries'}]",2,4.5,36.175,-115.136389,$$$
+211,Canvas and Cocktails,Las Vegas,NV,"[{'alias': 'social_clubs', 'title': 'Social Clubs'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'eventplanning', 'title': 'Party & Event Planning'}]",4,3.5,36.32932,-115.21928,$$
+212,LaBelle Winery,Amherst,NH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",179,4.0,42.9019033,-71.5760547,$$
+213,Zorvino Vineyards,Sandown,NH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",97,4.5,42.9199574386853,-71.1756034549425,$$
+214,Appolo Vineyards,Derry,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,4.0,42.87117,-71.28008,$
+215,Fulchino Vineyard,Hollis,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",47,4.5,42.7550856,-71.5484734,$$
+216,Averill House Vineyard,Brookline,NH,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,4.0,42.70976,-71.67463,$$
+217,Willow Spring Vineyards,Haverhill,MA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",14,4.5,42.77564,-71.14077,$$
+218,Sweet Baby Vineyard,Hampstead,NH,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",56,4.0,42.858024,-71.17288,$$
+219,IncrediBREW,Nashua,NH,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'teambuilding', 'title': 'Team Building Activities'}]",36,4.5,42.72846,-71.44768,$$
+220,Barley & Hops,Milford,NH,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",5,4.0,42.8249294077885,-71.6206444503908,$$
+221,Wine ConneXtion,North Andover,MA,"[{'alias': 'wineries', 'title': 'Wineries'}]",22,4.5,42.7028489,-71.1311578,$
+222,The Red Hook Winery,Brooklyn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",116,4.0,40.676695,-74.019153,$$
+223,Rooftop Reds,Brooklyn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",119,4.5,40.7025733903159,-73.9698984748688,$$
+224,City Vineyard,New York,NY,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",876,4.0,40.7205582,-74.0118093,$$
+225,Staten Island Winery,Staten Island,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",5,4.5,40.598855,-74.1820774,$$$
+226,Taste Wine Co.,New York,NY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",48,4.5,40.73103,-73.98924,$$
+227,Your Own Winery,Butler,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",26,5.0,41.0081215,-74.3586099,$$
+228,Make Wine With Us,Wallington,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",23,4.5,40.8430890524582,-74.1025676014328,$$
+229,Brooklyn Winery,Brooklyn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",259,4.5,40.71726,-73.9551199,$$
+230,Grape Expectations,Bridgewater,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,4.0,40.5629969752926,-74.5613772036619,$$
+231,The Winery,New York,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",91,4.0,40.80435,-73.955036,$$
+232,Ashley Lynn Winery,Mexico,NY,"[{'alias': 'markets', 'title': 'Fruits & Veggies'}, {'alias': 'wineries', 'title': 'Wineries'}]",3,4.0,43.47751,-76.30501,$
+233,Colloca Estate,Fair Haven,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,3.5,43.31295,-76.7144299,$$
+234,Anyela's Vineyards,Skaneateles,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",46,4.0,42.8884,-76.41842,$$
+235,Lakeland Winery,Syracuse,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",6,2.0,43.092924,-76.243097,$$
+236,Greenwood Winery & Bistro,East Syracuse,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",99,3.0,43.10215,-76.07371,$$
+237,CJS Vineyards,Auburn,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,5.0,42.9513397,-76.6697998,$
+238,Tug Hill Vineyards,Lowville,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",25,4.0,43.82125,-75.57587,$$
+239,Beak & Skiff Apple Orchards,Lafayette,NY,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'cafes', 'title': 'Cafes'}]",75,4.0,42.903268,-76.2225437,$$
+240,White Birch Vineyards,Skaneateles,NY,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",23,4.5,42.9457400230064,-76.4305609814328,$$
+241,Yellow Barn Winery,Watertown,NY,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,3.5,43.9396,-76.06855,$$
+242,Rocky River Vineyards,Midland,NC,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",36,4.5,35.26264,-80.46199,$$
+243,Treehouse Vineyards,Monroe,NC,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",153,4.0,34.9691087,-80.5513935,$$
+244,Cabo Winery,Concord,NC,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",29,5.0,35.4099659,-80.5802727,$$
+245,Foxcroft Wine Co - Southpark,Charlotte,NC,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",83,4.0,35.1474555,-80.809042,$$
+246,Petit Philippe,Charlotte,NC,"[{'alias': 'chocolate', 'title': 'Chocolatiers & Shops'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",45,4.5,35.1747729,-80.8396481,$$
+247,Cats Paw Winery,Rock Hill,SC,"[{'alias': 'wineries', 'title': 'Wineries'}]",16,4.0,34.922351,-81.131388,$$
+248,Cougar Run Winery,Concord,NC,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,3.5,35.4204683750868,-80.5902341008186,$$
+249,Hilton Vineyards,Monroe,NC,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",24,4.0,34.9811089,-80.5505174,$$
+250,Douglas Vineyards,Kannapolis,NC,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",28,4.5,35.5215043813415,-80.6913738325238,$
+251,Davidson Wine Co,Davidson,NC,"[{'alias': 'wineries', 'title': 'Wineries'}]",23,4.5,35.5002,-80.84896,$$
+252,Red Trail Vineyard,Buffalo,ND,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",3,4.5,46.9011,-97.49441,$$
+253,Maple River Winery,Casselton,ND,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.0,46.90086,-97.212017,$$
+254,Wyandotte Winery,Columbus,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",70,4.5,40.0684471130371,-82.8932952880859,$$
+255,The Twisted Vine,Columbus,OH,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",27,4.5,39.989522,-83.055167,$$
+256,Powell Village Winery,Powell,OH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",51,4.5,40.156731,-83.074432,$
+257,Wine on High,Columbus,OH,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",73,4.0,39.978485,-83.004091,$$
+258,Good Vibes Winery,Westerville,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",26,4.5,40.1258354187012,-82.9313583374023,$$
+259,Via Vecchia Winery,Columbus,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,3.5,39.918708,-82.99497,$$
+260,Cooper's Hawk Winery & Restaurant - Columbus,Columbus,OH,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",678,4.0,40.05428,-82.91498,$$
+261,Camelot Cellars,Columbus,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",56,3.5,39.96286,-82.97624,$$
+262,Plum Run Winery,Grove City,OH,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",34,3.5,39.8837952,-83.0921886,$$
+263,Signature Wines,Columbus,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",11,4.5,39.94259,-82.89385,$$
+264,Water's Edge Winery - OKC,Oklahoma City,OK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",41,4.5,35.47457,-97.51383,$$
+265,Strebel Creek Vineyard & Gift Shop,Oklahoma City,OK,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'accessories', 'title': 'Accessories'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",12,5.0,35.58705,-97.62159,$$
+266,Put A Cork In It,Oklahoma City,OK,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'giftshops', 'title': 'Gift Shops'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",58,4.5,35.46559,-97.51001,$$
+267,Clauren Ridge Vineyard and Winery,Edmond,OK,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",24,4.5,35.7257828,-97.5603605,$$
+268,The OKC Cellar,Oklahoma City,OK,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",4,5.0,35.5499992,-97.5158278,$$
+269,Tres Suenos,Luther,OK,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",7,4.5,35.7534417,-97.173751,$$$
+270,Redbud Ridge Vineyard & Winery,Norman,OK,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,4.5,35.189719285473,-97.3338040292313,$
+271,Native Spirits Winery,Norman,OK,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",8,5.0,35.20276,-97.2871,$$
+272,Wine & Liquor Oasis,Yukon,OK,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",3,3.0,35.57436,-97.6746299,$$
+273,ENSO Winery,Portland,OR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",208,4.5,45.5192482,-122.6511585,$$
+274,Seven Bridges Winery,Portland,OR,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",22,4.5,45.5394217,-122.6783201,$$
+275,The Portland Wine Bar & Winery Tasting Room,Portland,OR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",194,4.5,45.5181864746535,-122.678645531942,$$
+276,Thelonious Wines,Portland,OR,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",60,4.5,45.5267818272114,-122.680177465081,$$
+277,A Great Oregon Wine Tour,Portland,OR,"[{'alias': 'tours', 'title': 'Tours'}, {'alias': 'wineries', 'title': 'Wineries'}]",71,4.5,45.536025,-122.569911,$$
+278,Coopers Hall,Portland,OR,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",136,4.5,45.5198503,-122.6593782,$$
+279,All About You Luxury Wine Tours,Portland,OR,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'wineries', 'title': 'Wineries'}]",150,5.0,45.4618085115878,-122.718190401793,$$
+280,Hip Chicks Do Wine,Portland,OR,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",53,4.0,45.4899946600199,-122.642425373197,$$
+281,Teutonic Wine Company,Portland,OR,"[{'alias': 'wineries', 'title': 'Wineries'}]",24,4.5,45.4990733060644,-122.645924565258,$$
+282,Boedecker Cellars,Portland,OR,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",15,4.5,45.5401,-122.71284,$$
+283,Pinot Boutique,Philadelphia,PA,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",89,4.0,39.950378,-75.144639,$$
+284,Cedarvale Winery,Swedesboro,NJ,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",17,4.5,39.809968007239,-75.3112717423806,$$
+285,Grace Winery,Glen Mills,PA,"[{'alias': 'wineries', 'title': 'Wineries'}]",27,3.5,39.9275635818787,-75.4777331939296,$$
+286,Penns Woods Winery,Chadds Ford,PA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",83,4.5,39.84729,-75.54666,$$
+287,Wine School of Philadelphia,Philadelphia,PA,"[{'alias': 'specialtyschools', 'title': 'Specialty Schools'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}]",65,4.5,39.952073,-75.176908,$$
+288,Amalthea Cellars Farm Winery,Atco,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",47,4.5,39.73838,-74.88614,$$
+289,The Wine Room of Cherry Hill,Cherry Hill,NJ,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'wineries', 'title': 'Wineries'}]",3,3.5,39.913853,-74.966705,$$
+290,Salem Oak Vineyards,Pedricktown,NJ,"[{'alias': 'wineries', 'title': 'Wineries'}]",38,5.0,39.7617027,-75.4097575,$$
+291,Philadelphia Magazine's the Philadelphia Wine and Food Festival,Philadelphia,PA,"[{'alias': 'festivals', 'title': 'Festivals'}, {'alias': 'localflavor', 'title': 'Local Flavor'}, {'alias': 'wineries', 'title': 'Wineries'}]",1,4.0,39.9044151,-75.1670303,$$$
+292,Stone & Key Cellars,Montgomeryville,PA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",24,4.5,40.2519760131836,-75.238410949707,$$
+293,Verde Vineyards,Johnston,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",53,5.0,41.8444537941493,-71.5699197975435,$$
+294,Diamond Hill Vineyards,Cumberland,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",63,4.5,41.9744461,-71.4062825,$$
+295,Newport Vineyards & Winery,Middletown,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",392,4.0,41.529288,-71.272548,$$
+296,Mulberry Vineyard,Glocester,RI,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",20,4.5,41.8932683765888,-71.6635273396969,$$
+297,Carolyn's Sakonnet Vineyards,Little Compton,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",137,4.0,41.531614,-71.189793,$$
+298,Greenvale Vineyards,Portsmouth,RI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",119,4.0,41.5359966,-71.2478783,$$
+299,Gracie's,Providence,RI,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",652,4.5,41.82197,-71.41585,$$$
+300,Leyden Farm Vineyard & Winery,West Greenwich,RI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}, {'alias': 'christmastrees', 'title': 'Christmas Trees'}]",51,4.0,41.6453149,-71.703607,$$
+301,La Cantina Winery,Franklin,MA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",7,5.0,42.07616,-71.40382,$$$
+302,Nickle Creek Vineyard,Foster,RI,"[{'alias': 'wineries', 'title': 'Wineries'}]",29,4.5,41.780002,-71.693619,$
+303,The Winery at Mercer House,Lexington,SC,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.0,33.9994662,-81.3690681,$$
+304,Enoree River Vineyards & Winery,Newberry,SC,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.5,34.313216,-81.560975,$$
+305,Calico Skies Vineyard and Winery,Inwood,IA,"[{'alias': 'localflavor', 'title': 'Local Flavor'}, {'alias': 'wineries', 'title': 'Wineries'}]",7,4.0,43.2949715,-96.5229416,$
+306,Strawbale Winery,Renner,SD,"[{'alias': 'wineries', 'title': 'Wineries'}]",7,5.0,43.6588897705078,-96.7683792114258,$$
+307,Old Millington Vineyard & Winery,Millington,TN,"[{'alias': 'wineries', 'title': 'Wineries'}]",16,4.0,35.3100052,-89.953186,$
+308,Delta Blues Winery,Lakeland,TN,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",22,4.5,35.3063308310131,-89.7282829105462,$$
+309,Quench Wine & Spirits,Memphis,TN,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'winetasteclasses', 'title': 'Wine Tasting Classes'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",8,5.0,35.1422164535088,-90.052691916198,$$
+310,de terra Vineyard and Wines of Somerville,Somerville,TN,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'wineries', 'title': 'Wineries'}]",2,3.5,35.366813659668,-89.345329284668,$
+311,Sable Gate Winery,Houston,TX,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cafes', 'title': 'Cafes'}]",105,4.0,29.7458134,-95.3753481,$$
+312,The Nice Winery,Houston,TX,"[{'alias': 'wineries', 'title': 'Wineries'}]",10,4.5,29.8200624,-95.5649807,$$
+313,The Solaro Winery,Houston,TX,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetours', 'title': 'Wine Tours'}]",14,3.5,29.7764727486551,-95.4177651554346,$$
+314,Braman Winery And Brewery,Richmond,TX,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'breweries', 'title': 'Breweries'}]",78,4.0,29.626032,-95.762064,$$
+315,La Fuente Winery,Houston,TX,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",28,4.0,29.8091544,-95.4692563,$$
+316,Yellow Rose Distilling,Houston,TX,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'distilleries', 'title': 'Distilleries'}]",61,4.5,29.7884236306527,-95.4564724427703,$$
+317,Sonoma Wine Bar - Upper Kirby,Houston,TX,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",236,4.0,29.7344229,-95.4208099,$$
+318,French Country Wines,Houston,TX,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",19,4.0,29.7270651,-95.4162911,$$
+319,Clear Creek Vineyard,Kemah,TX,"[{'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",46,3.0,29.541862,-95.018875,$$
+320,DUO Winery & Cider,Dickinson,TX,"[{'alias': 'cideries', 'title': 'Cideries'}, {'alias': 'wineries', 'title': 'Wineries'}]",30,4.0,29.4807531117835,-95.0474644669342,$$
+321,Ruth Lewandowski Wines,Salt Lake City,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,40.6986597,-111.8999291,$$
+322,The Hive Winery,Layton,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,4.5,41.0667821293317,-111.987499594688,$$
+323,Old Town Cellars,Park City,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",52,4.5,40.6433169,-111.4953838,$$
+324,State Wine Store,Salt Lake City,UT,"[{'alias': 'wineries', 'title': 'Wineries'}]",28,4.0,40.7352529,-111.8990236,$$
+325,"Wine Racks America, Inc.",North Salt Lake,UT,"[{'alias': 'furniture', 'title': 'Furniture Stores'}, {'alias': 'wineries', 'title': 'Wineries'}]",10,2.0,40.845519,-111.9274702,$$
+326,350 Main Brasserie,Park City,UT,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",159,3.0,40.642807,-111.49501,$$$
+327,Shelburne Vineyard,Shelburne,VT,"[{'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",83,4.0,44.3664083,-73.2339033,$$
+328,Hillis' Sugarbush Farm & Vineyard,Colchester,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",1,5.0,44.5931473,-73.1924667,$$
+329,Mad River Distillers,Burlington,VT,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",38,4.5,44.476045,-73.214311,$$
+330,East Shore Vineyard,South Hero,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",9,4.0,44.628057,-73.284978,$$
+331,Elfs Farm Winery & Cider Mill,Plattsburgh,NY,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'cideries', 'title': 'Cideries'}]",22,5.0,44.743176,-73.425263,$$
+332,Charlotte Village Winery,Charlotte,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",13,4.5,44.295,-73.25721,$$
+333,Snow Farm Vineyard,South Hero,VT,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,3.5,44.6268,-73.33302,$$
+334,Boyden Valley Winery & Spirits,Cambridge,VT,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'winetours', 'title': 'Wine Tours'}, {'alias': 'cideries', 'title': 'Cideries'}]",78,4.5,44.647801,-72.888869,$$
+335,Burlington Brew Tours by City Brew Tours,South Burlington,VT,"[{'alias': 'tours', 'title': 'Tours'}, {'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'teambuilding', 'title': 'Team Building Activities'}]",60,4.5,44.4722698,-73.1866885,$$
+336,Lexington Valley Vineyard,Rockbridge Baths,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",8,4.5,37.8652627,-79.4190475,$
+337,Jump Mountain Vineyard,Rockbridge Baths,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",2,4.5,37.935349,-79.387184,$$
+338,Rockbridge Vineyard,Raphine,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",49,4.0,37.941859,-79.241143,$$
+339,Barren Ridge Vineyards,Fishersville,VA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",38,4.5,38.13368,-78.9558799,$$
+340,Ox-Eye Vineyards Tasting Room,Staunton,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",23,4.5,38.14695,-79.07391,$$
+341,Ankida Ridge Vineyards,Amherst,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",12,5.0,37.7095108,-79.1723633,$$
+342,Veritas Vineyard & Winery,Afton,VA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",242,4.0,38.0153251,-78.8363227,$$
+343,CrossKeys Vineyards,Mount Crawford,VA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'newamerican', 'title': 'American (New)'}]",160,4.0,38.322532,-78.853985,$$
+344,Blue Ridge Vineyard,Eagle Rock,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",20,4.0,37.629506,-79.749597,$$
+345,Lovingston Winery,Lovingston,VA,"[{'alias': 'wineries', 'title': 'Wineries'}]",16,4.0,37.727175,-78.91344,$$
+346,Swiftwater Cellars,Cle Elum,WA,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wineries', 'title': 'Wineries'}]",205,4.0,47.20803,-120.99344,$$$
+347,Ellensburg Canyon Winery,Ellensburg,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",15,5.0,46.89984,-120.4886,$$
+348,Gard Vintners Wine Tasting Room,Ellensburg,WA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",14,5.0,46.995148,-120.547655,$$
+349,Wedge Mountain Winery,Peshastin,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",17,4.5,47.5679981,-120.5899817,$$
+350,Icicle Ridge Winery,Peshastin,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",49,4.5,47.580145,-120.606384,$$
+351,Silvara Cellars,Leavenworth,WA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",63,4.0,47.575942,-120.6143999,$$
+352,Leony's Cellars,Cashmere,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",4,5.0,47.5209022663806,-120.466975799151,$$
+353,Chateau Faire Le Pont Winery,Wenatchee,WA,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",107,4.0,47.464409,-120.328062,$$
+354,A Taste of Icicle Ridge Winery,Leavenworth,WA,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",81,4.0,47.595182,-120.66152,$$
+355,Eagle Creek Winery,Leavenworth,WA,"[{'alias': 'wineries', 'title': 'Wineries'}]",18,4.5,47.63603,-120.60087,$$
+356,Chestnut Ridge Winery,Spencer,WV,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,5.0,38.800738,-81.364894,$$
+357,Merry Family Winery,Bidwell,OH,"[{'alias': 'wineries', 'title': 'Wineries'}]",6,4.0,38.8796899,-82.29651,$
+358,Twisted Path Distillery,Milwaukee,WI,"[{'alias': 'distilleries', 'title': 'Distilleries'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",33,4.5,43.00733,-87.91065,$$
+359,Cedar Creek Winery,Cedarburg,WI,"[{'alias': 'wineries', 'title': 'Wineries'}]",64,4.5,43.301318592945,-87.988944679619,$$
+360,Thief Wine Shop & Bar,Milwaukee,WI,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",76,4.5,43.0352147065604,-87.9082923683227,$$
+361,Pieper Porch Winery & Vineyard,Mukwonago,WI,"[{'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",12,4.5,42.921977,-88.314854,$$
+362,Two Brothers Wines,Richfield,WI,"[{'alias': 'wineries', 'title': 'Wineries'}, {'alias': 'galleries', 'title': 'Art Galleries'}]",13,5.0,43.258337,-88.19568,$$
+363,The Village Cheese Shop,Wauwatosa,WI,"[{'alias': 'cheese', 'title': 'Cheese Shops'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",17,4.5,43.05025,-88.00821,$$
+364,Cooper's Hawk Winery & Restaurant - Brookfield,Brookfield,WI,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",354,4.0,43.0312273,-88.1087896,$$$
+365,Chiselled Grape Winery,Cedarburg,WI,"[{'alias': 'wineries', 'title': 'Wineries'}]",29,4.0,43.301528,-87.989784,$$
+366,Crush Wine Bar,Muskego,WI,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'winetastingroom', 'title': 'Wine Tasting Room'}]",1,5.0,42.910487,-88.124847,$$
+367,Total Wine & More,Brookfield,WI,"[{'alias': 'tobaccoshops', 'title': 'Tobacco Shops'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}, {'alias': 'headshops', 'title': 'Head Shops'}]",35,3.5,43.0378346,-88.1282956,$$
